@@ -1,5 +1,6 @@
 def first_challenge
    epic_tragedy = {
-     :montage={}
+     :montage={},
+     :capulet=>{}
    }
 end
